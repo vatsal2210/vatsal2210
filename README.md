@@ -18,20 +18,10 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm [Vatsal!](https://vatsalshah.in) 👋
 
-<a href="https://codesandbox.io/u/vatsal2210">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/vatsal2210/vatsal2210/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/vatsal2210/vatsal2210/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/vatsal2210/vatsal2210/master/assets/discord-round.svg" />
-</a>
-
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Vatsal Shah, an intraprenuer, AI, Machine Learning, IoT from Canada. 
 
 - 🔭 I’m currently working on my project [ConvoyChat](https://github.com/vatsal2210/convoychat)
 - 🌱 I’m currently learning GraphQL & Typescript
