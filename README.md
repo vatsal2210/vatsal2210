@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+Vatsal Shah is a Machine Learning Engineer, software Engineer, Intraprenuer, IoT and Voice Assistant Developer from Canada.
+
+You can see what he's posting about at https://vatsalshah.in
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat!</i>
+
+    <p align="center">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=vatsal2210.visitor-badge">
+  </p>
+</p>
+
 <!--
 **vatsal2210/vatsal2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
