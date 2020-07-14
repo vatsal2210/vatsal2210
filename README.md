@@ -12,7 +12,6 @@ You can see what he's posting about at https://vatsalshah.in
   <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=vatsal2210.visitor-badge">
 </p>
 
-
 <!--
 **vatsal2210/vatsal2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
