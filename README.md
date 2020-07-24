@@ -9,7 +9,6 @@ You can see what he's posting about at https://vatsalshah.in
   <i>Let's connect and chat!</i>
 </p>
 
-
 <!--
 **vatsal2210/vatsal2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
