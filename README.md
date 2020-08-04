@@ -2,7 +2,7 @@
 
 Vatsal is a deeply experienced machine learning engineer, full-stack developer and team builder. In-depth development skill set with ability to efficiently build large-scale Web, IoT, Voice and speech recognition platforms with integrations. He did masters in Computer Science at Western University.
 
-You can see what he's posting about at  https://vatsalshah.in
+You can see what he's posting about at https://vatsalshah.in
 
 <hr>
 <p align="center">
