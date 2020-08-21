@@ -6,7 +6,7 @@ You can see what he's posting about at https://vatsalshah.in
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat!</i>
+  <i>Let's connect and chat.</i>
 </p>
 
 <!--
